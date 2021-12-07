@@ -37,7 +37,7 @@ namespace PastePin
 
                 cmd.ExecuteNonQuery();
                 conn.Close();
-                //l
+                //l hei
             }
         }
         public void GetQSAndmessage(string query)
