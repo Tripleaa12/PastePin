@@ -34,10 +34,6 @@
         
 
 
-        <p>
-            <asp:Button ID="TimeButton" runat="server" Text="Burn after read" OnClick="ButtonCreateQueryString_Click" Height="42px" Width="104px" />
-            
-        </p>
 
         
         
